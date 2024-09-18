@@ -1,5 +1,7 @@
 # Student-Management-System-Project
 
+![Screenshot 2024-09-18 155452](https://github.com/user-attachments/assets/c9533de5-d0f7-4848-99ad-d396e43fac98)
+
 # Features:
 
 1. Add Student: Allows users to input new student information (name, ID, age, and GPA) and adds it to the linked list.
